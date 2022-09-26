@@ -1,0 +1,12 @@
+h1,h2,h3,h4,h5,h6{
+    color: #093de7;
+    font-family: "Century Schoolbook L";
+    font-size: 25px;
+    text-align: center;
+
+}
+p{
+    color: red;
+    font-family: "DejaVu Sans";
+    font-size: 16px;
+}
